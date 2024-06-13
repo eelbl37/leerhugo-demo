@@ -1,4 +1,4 @@
-baseURL: https://github.com/eelbl37/leer-hugo
+baseURL: https://github.com/eelbl37/leerhugo-demo
 languageCode: en-us
 title: Deploy hugo site
 theme: hugo-paper
